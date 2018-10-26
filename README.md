@@ -1,5 +1,5 @@
 # Domotic Patronato
-
+#lol
 ## Intro 
 Domotic Patronato è un progetto domotico per uso domestico che permette l'accensione e lo spegnimento delle luci da remoto.  
 Il progetto utilizza un **Raspberry Pi 3B+** e una scheda relè.  
